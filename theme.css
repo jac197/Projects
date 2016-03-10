@@ -25,7 +25,7 @@ body {
 .btn-punchstarter {
   background-color: #2bde73;
   color: #fff;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 .btn-punchstarter:hover {
@@ -36,7 +36,7 @@ body {
 /* Bootstrap Overrides */
 .navbar-defaults .navbar-brand {
   color: #2bde73;
-  font-weight: 700;
+  font-weight: bold;
 }
 a {color: #2bde73;}
 a:hover {color: #19b858; text-decoration: none;}
