@@ -34,7 +34,7 @@ body {
 }
 
 /* Bootstrap Overrides */
-.navbar-defaults .navbar-brand {
+.navbar-default .navbar-brand {
   color: #2bde73;
   font-weight: bold;
 }
